@@ -12,7 +12,7 @@
 #### Para se conectar ao banco de dados vá em:
 #### CursoMVC -> Models -> Context
 #### Altere {ServidorDoBancoDeDados} pelo nome do seu servidor.
-#### para compilar as duas soluções clique com o botão direito em CursoAPI e vá em:
-### propriedades -> selecione projeto de incialização -> clique em "Vários projetos de inicialização" -> selecione iniciar para Curso API e CursoMVC -> clique em "aplique" e dê OK.
-### Agora é so compilar a aplicação.
+#### Para compilar as duas soluções clique com o botão direito em CursoAPI e vá em:
+#### propriedades -> selecione projeto de incialização -> clique em "Vários projetos de inicialização" -> selecione iniciar para Curso API e CursoMVC -> clique em "aplique" e dê OK.
+#### Agora é so compilar a aplicação.
 
